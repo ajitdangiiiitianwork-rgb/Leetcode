@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0051-n-queens) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0037-sudoku-solver) |
 | [0208-implement-trie-prefix-tree](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -50,4 +52,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Simulation
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
