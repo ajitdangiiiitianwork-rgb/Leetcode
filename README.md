@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
@@ -72,4 +73,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
