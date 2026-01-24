@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -81,8 +83,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
