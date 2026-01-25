@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0037-sudoku-solver) |
 | [0208-implement-trie-prefix-tree](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0409-longest-palindrome](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0409-longest-palindrome](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0409-longest-palindrome) |
 ## Design
 |  |
 | ------- |
@@ -101,4 +103,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
