@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0055-jump-game) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -108,5 +109,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0409-longest-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
