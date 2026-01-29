@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0037-sudoku-solver) |
+| [0133-clone-graph](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -145,4 +146,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0048-rotate-image) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
