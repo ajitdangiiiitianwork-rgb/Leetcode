@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0055-jump-game) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0054-spiral-matrix) |
 ## Sorting
 |  |
@@ -139,4 +141,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
