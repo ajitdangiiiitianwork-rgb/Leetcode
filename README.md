@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3952-trionic-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3952-trionic-array-i) |
 ## Backtracking
 |  |
 | ------- |
