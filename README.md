@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1168-duplicate-zeros](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1306-minimum-absolute-difference](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0768-partition-labels](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0768-partition-labels) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Matrix
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -173,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
@@ -180,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
