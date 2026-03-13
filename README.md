@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0941-sort-array-by-parity](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1168-duplicate-zeros) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0941-sort-array-by-parity](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0768-partition-labels](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0768-partition-labels) |
+| [0941-sort-array-by-parity](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
