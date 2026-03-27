@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0394-decode-string) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
