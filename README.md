@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0768-partition-labels) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0768-partition-labels) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1168-duplicate-zeros](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
 | ------- |
