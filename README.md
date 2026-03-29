@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0133-clone-graph) |
+| [0202-happy-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0409-longest-palindrome) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0202-happy-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Depth-First Search
 |  |
