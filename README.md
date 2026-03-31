@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-minimum-absolute-difference](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0768-partition-labels](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Matrix
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0768-partition-labels) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Design
 |  |
@@ -116,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -255,4 +259,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1137-height-checker) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
