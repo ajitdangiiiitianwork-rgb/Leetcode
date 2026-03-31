@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0202-happy-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Depth-First Search
