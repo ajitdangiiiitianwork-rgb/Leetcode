@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0394-decode-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
