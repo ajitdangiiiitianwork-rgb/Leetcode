@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0283-move-zeroes) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0498-diagonal-traverse) |
 ## Sorting
 |  |
@@ -256,12 +258,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0207-course-schedule) |
 | [1484-linked-list-in-binary-tree](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0207-course-schedule) |
 ## Graph Theory
 |  |
@@ -320,4 +324,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
