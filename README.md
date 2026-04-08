@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0795-k-th-symbol-in-grammar](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0394-decode-string) |
+| [0795-k-th-symbol-in-grammar](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Monotonic Stack
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0202-happy-number) |
 | [0539-minimum-time-difference](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0795-k-th-symbol-in-grammar](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Depth-First Search
