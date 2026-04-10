@@ -1,20 +1,9 @@
 class Solution {
 public:
-    void backtrack(int row, unordered_set<int>& cols, unordered_set<int>& diags, unordered_set<int>& antidi,
-    vector<vector<string>>& boards, int n, vector<vector<char>>& game){
+    void backtrack(int row, unordered_set<int>& cols, unordered_set<int>& diags, unordered_set<int>& antidi, int n, int& res){
         if(row == n){
-            // add game to boards
-            vector<string> temp;
-            for(int i = 0; i < n; i++){
-                string s = "";
-                for(int j = 0; j < n; j++){
-                    s += game[i][j];
-                }
-
-                temp.push_back(s);
-            }
-
-            boards.push_back(temp);
+            // increment the counter
+            res++;
             return;
         }
 
@@ -31,9 +20,7 @@ public:
             diags.insert(dia);
             antidi.insert(anti);
 
-            game[row][col] = 'Q';
-            backtrack(row + 1, cols, diags, antidi, boards, n, game);
-            game[row][col] = '.';
+            backtrack(row + 1, cols, diags, antidi, n, res);
 
             cols.erase(col);
             diags.erase(dia);
@@ -45,11 +32,8 @@ public:
         unordered_set<int> cols;
         unordered_set<int> diags;
         unordered_set<int> antidi;
-
-        vector<vector<string>> boards;
-        vector<vector<char>> game(n, vector<char>(n, '.'));
-
-        backtrack(0, cols, diags, antidi, boards, n, game);
-        return boards.size();
+        int res = 0;
+        backtrack(0, cols, diags, antidi, n, res);
+        return res;
     }
 };
