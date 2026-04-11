@@ -1,20 +1,42 @@
 class Solution {
 public:
-    void helper(vector<string>& res, int n, int no_of_open, int no_of_close, string s){
-        if(no_of_open == n && no_of_close == n) {
-            // base case
-            res.push_back(s);
-            return;
+    bool isValidParentheses(vector<char>& str){
+        int count = 0;
+        for(char c: str){
+            if(c == '(') count++;
+            else count--;
+
+            if(count < 0) return false;
         }
 
-        if(no_of_open < n) helper(res, n, no_of_open + 1, no_of_close, s + '('); 
-        if(no_of_close < no_of_open) helper(res, n, no_of_open, no_of_close + 1, s + ')');
+        return count == 0;
+    }
 
+    void helper(vector<char>& str, vector<string>& res, int n){
+        if(str.size() == 2*n){
+            // base case 
+            // check for validity and then add to res
+
+            if(isValidParentheses(str)){
+                string s = "";
+                for(char c: str) s += c;
+                res.push_back(s);
+            }
+            return;            
+        }
+
+        str.push_back('(');
+        helper(str, res, n);
+        str.pop_back();
+        str.push_back(')');
+        helper(str, res, n);
+        str.pop_back();
     }
 
     vector<string> generateParenthesis(int n) {
         vector<string> res;
-        helper(res, n, 0, 0, "");
+        vector<char> str;
+        helper(str, res, n);
         return res;
     }
 };
