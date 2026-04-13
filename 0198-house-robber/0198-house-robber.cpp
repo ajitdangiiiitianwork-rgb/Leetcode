@@ -5,7 +5,7 @@ public:
         if(i == 1) return max(nums[0], nums[1]);
         if(dp[i] != -1) return dp[i];
 
-        dp[i] = max(nums[i] + helper(i-2, nums, dp), helper(i-1, nums, dp));
+        dp[i] = max(helper(i-1, nums, dp), nums[i] + helper(i-2, nums, dp));
         return dp[i];
     }
 
