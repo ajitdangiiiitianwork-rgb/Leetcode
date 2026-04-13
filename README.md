@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0198-house-robber) |
+| [1236-n-th-tribonacci-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0202-happy-number) |
 | [0539-minimum-time-difference](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
+| [1236-n-th-tribonacci-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Depth-First Search
@@ -364,4 +366,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
