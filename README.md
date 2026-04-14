@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 ## Two Pointers
 |  |
 | ------- |
