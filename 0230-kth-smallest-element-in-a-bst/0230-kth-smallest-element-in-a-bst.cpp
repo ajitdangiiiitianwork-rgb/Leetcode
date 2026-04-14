@@ -17,9 +17,9 @@ public:
 
         stack<TreeNode*> st;
         TreeNode* curr = root;
-        vector<int> ans;
 
-        while(curr != NULL || !st.empty()){
+        int data;
+        while((curr != NULL || !st.empty()) && k != 0){
             while(curr != NULL){
                 st.push(curr);
                 curr = curr->left;
@@ -29,13 +29,11 @@ public:
             curr = st.top();
             st.pop();
 
-            ans.push_back(curr->val);
+            data = curr->val;
+            k--;
             curr = curr->right;
         }
-        int data;
-        for(int i = 0; i < k; i++){
-            data = ans[i];
-        }
+        
 
         return data;
     }
