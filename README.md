@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0207-course-schedule) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -354,12 +355,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Number Theory
 |  |
@@ -373,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Memoization
 |  |
 | ------- |
