@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0724-find-pivot-index](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0724-find-pivot-index) |
+| [0740-delete-and-earn](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0740-delete-and-earn](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0198-house-robber) |
+| [0740-delete-and-earn](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Two Pointers
