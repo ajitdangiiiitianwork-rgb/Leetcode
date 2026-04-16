@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
