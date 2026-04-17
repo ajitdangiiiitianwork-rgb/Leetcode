@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Greedy
 |  |
 | ------- |
