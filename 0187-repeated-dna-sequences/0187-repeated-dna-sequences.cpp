@@ -16,7 +16,8 @@ public:
         for(i = 10; i < s.size(); i++){
             str.erase(0,1);
             str.push_back(s[i]);
-            mp[str]++;
+            if(mp[str] > 1) continue;
+            else mp[str]++;
         }
 
         for(auto& [key, value] : mp){
