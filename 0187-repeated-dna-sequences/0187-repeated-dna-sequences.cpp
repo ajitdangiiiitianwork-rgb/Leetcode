@@ -2,28 +2,17 @@ class Solution {
 public:
     vector<string> findRepeatedDnaSequences(string s) {
         if(s.size() < 10) return {};
-        vector<string> ans;
+        // using two sets seen and result
+        unordered_set<string> seen;
+        unordered_set<string> result;
 
-        unordered_map<string, int> mp;
-        string str;
-        int i;
-        for(i = 0; i < 10; i++){
-            str.push_back(s[i]);
+        for(int i = 0; i <= s.size() - 10; i++){
+            string sub = s.substr(i, 10);
+            if(seen.find(sub) != seen.end()) result.insert(sub);
+            else seen.insert(sub);
+        
         }
 
-        mp[str]++;
-        // Now i points to index 10 which means 11th character
-        for(i = 10; i < s.size(); i++){
-            str.erase(0,1);
-            str.push_back(s[i]);
-            if(mp[str] > 1) continue;
-            else mp[str]++;
-        }
-
-        for(auto& [key, value] : mp){
-            if(value > 1) ans.push_back(key);
-        }
-
-        return ans;
+        return vector<string>(result.begin(), result.end());
     }
 };
