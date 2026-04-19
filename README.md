@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0940-fruit-into-baskets](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Greedy
