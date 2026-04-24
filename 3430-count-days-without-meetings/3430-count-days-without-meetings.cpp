@@ -5,7 +5,7 @@ public:
     }
 
     int countDays(int days, vector<vector<int>>& meetings) {
-        // Using the approach of merge intervals
+       /* // Using the approach of merge intervals
         sort(meetings.begin(), meetings.end(), cmp);
         vector<vector<int>> result;
         result.push_back(meetings[0]);
@@ -39,9 +39,27 @@ public:
                 count += result[i][1] - result[i][0] + 1;
             }
             return days - count;
+        } */
+
+        // Using a different approach
+        sort(meetings.begin(), meetings.end(), cmp);
+        int maxEnd = meetings[0][1];
+
+        // If i have not attended the meeting from start
+        int count = meetings[0][0] - 1;
+
+        for(int i = 1; i < meetings.size(); i++){
+            if(meetings[i][0] > maxEnd){
+                count += meetings[i][0] - maxEnd - 1;
+                maxEnd = meetings[i][1];
+            } else {
+                maxEnd = max(maxEnd, meetings[i][1]);
+            }
         }
 
-        return 0;
+        count += days - maxEnd;
+
+        return count;
         
     }
 };
