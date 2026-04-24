@@ -28,14 +28,17 @@ public:
 
         else {
             int count = 0;
-            count = count + (result[0][0] - 1);
-            int j;
-            for(j = 1; j < result.size(); j++){
-                count = count + result[j][0] - result[j-1][1] - 1;
-            }
+            // count = count + (result[0][0] - 1);
+            // int j;
+            // for(j = 1; j < result.size(); j++){
+            //     count = count + result[j][0] - result[j-1][1] - 1;
+            // }
 
-            count = count + (days - result[j-1][1]);
-            return count;
+            // count = count + (days - result[j-1][1]);
+            for(int i = 0; i < result.size(); i++){
+                count += result[i][1] - result[i][0] + 1;
+            }
+            return days - count;
         }
 
         return 0;
