@@ -17,6 +17,9 @@ public:
             if(bookings > 2){
                 counts[startTime]--;
                 counts[endTime]++;
+
+                if(counts[startTime] == 0) counts.erase(startTime);
+                if(counts[endTime] == 0) counts.erase(endTime);
                 return false;
             }
         }
