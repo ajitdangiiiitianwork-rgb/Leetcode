@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0740-delete-and-earn](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0729-my-calendar-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Trie
 |  |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0731-my-calendar-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Stack
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0729-my-calendar-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -437,5 +441,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
