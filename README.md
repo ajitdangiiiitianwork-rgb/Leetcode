@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1028-interval-list-intersections](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1137-height-checker](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1184-car-pooling](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1184-car-pooling) |
 | [1222-remove-covered-intervals](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1137-height-checker) |
+| [1184-car-pooling](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1184-car-pooling) |
 | [1222-remove-covered-intervals](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -206,12 +208,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1184-car-pooling](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1184-car-pooling) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1184-car-pooling](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1184-car-pooling) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -368,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/0731-my-calendar-ii) |
+| [1184-car-pooling](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1184-car-pooling) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ajitdangiiiitianwork-rgb/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
