@@ -1,23 +1,22 @@
 class Solution {
 public:
-    static bool cmp (vector<int>& v1, vector<int>& v2){
-        if(v1[1] != v2[1]) return v1[1] < v2[1];
-        return v1[2] < v2[2];
-    }
-
+    
     bool carPooling(vector<vector<int>>& trips, int capacity) {
-        sort(trips.begin(), trips.end(), cmp);
+        // Using Bucket Sort Algo
+        vector<int> buckets(1001, 0);
+        for(auto& p : trips){
+            int pass = p[0];
+            int start = p[1];
+            int end = p[2];
 
-        map<int, int> count;
-        for(int i = 0; i < trips.size(); i++){
-            count[trips[i][1]] += trips[i][0];
-            count[trips[i][2]] -= trips[i][0];
+            buckets[start] = buckets[start] + pass;
+            buckets[end] = buckets[end] - pass;
         }
 
-        int numOfPass = 0;
-        for(auto &p : count){
-            numOfPass += p.second;
-            if(numOfPass > capacity) return false;
+        int passengers = 0;
+        for(int i = 0; i < buckets.size(); i++){
+            passengers += buckets[i];
+            if(passengers > capacity) return false;
         }
 
         return true;
