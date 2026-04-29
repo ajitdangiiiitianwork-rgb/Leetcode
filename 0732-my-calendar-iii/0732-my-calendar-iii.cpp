@@ -14,7 +14,7 @@ public:
         int bookings = 0;
         for(auto& p : count){
             bookings += p.second;
-            if(bookings > maxBookings) maxBookings = bookings;
+            maxBookings = max(bookings, maxBookings);
         }
 
         return maxBookings;
