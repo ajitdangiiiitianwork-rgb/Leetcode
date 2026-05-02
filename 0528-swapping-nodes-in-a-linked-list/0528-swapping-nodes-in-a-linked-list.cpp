@@ -11,27 +11,19 @@
 class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
-        // using the technique of slow and fast pointers
+        
         ListNode* temp1 = head;
         ListNode* temp2 = head;
-        ListNode* temp = head;
-        int n = 0;
-        while(temp){
-            n++;
-            temp = temp->next;
-        }
 
-        for(int i = 1; i < k; i++){
-            temp1 = temp1->next;
-        }
-
-        for(int j = 1; j < n-k+1; j++){
+        for(int i = 1; i < k; i++) temp1 = temp1->next;
+        ListNode* dummy = temp1;
+        while(dummy->next){
             temp2 = temp2->next;
+            dummy = dummy->next;
         }
 
-        n = temp1->val;
-        temp1->val = temp2->val;
-        temp2->val = n;
+        swap(temp1->val, temp2->val);
+        return head;
 
         return head;
     }
